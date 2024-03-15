@@ -33,4 +33,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 Special thanks to Jonas Schmedtmann for providing the invaluable guidance and resources throughout the course.
+
+## Screenshots
+
+### Hero section
+
 ![Hero section](https://github.com/nikolasarac/Omnifood-Project/assets/11030281/22c318f4-d400-491b-b810-7138e392bfe7)
+
+### How it works section
+
+![How it works section](https://github.com/nikolasarac/Omnifood-Project/assets/11030281/2cabfb5f-aba2-45fe-8f3c-7ffeb8c0712b)

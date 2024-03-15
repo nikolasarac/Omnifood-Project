@@ -43,3 +43,21 @@ Special thanks to Jonas Schmedtmann for providing the invaluable guidance and re
 ### How it works section
 
 ![How it works section](https://github.com/nikolasarac/Omnifood-Project/assets/11030281/2cabfb5f-aba2-45fe-8f3c-7ffeb8c0712b)
+
+### Meals section
+
+![Meals section](https://github.com/nikolasarac/Omnifood-Project/assets/11030281/25075da1-ae0e-4a13-b285-28851c6dc082)
+
+### Testimonials and gallery section
+
+![Testimonials and gallery](https://github.com/nikolasarac/Omnifood-Project/assets/11030281/14a0817e-a4c5-4a53-a91d-329917d6953f)
+
+### Pricing section
+
+![Pricing section](https://github.com/nikolasarac/Omnifood-Project/assets/11030281/493fa70f-752c-4e00-b16a-7041f1204429)
+
+
+### CTA and Footer section
+
+![CTA and Footer section](https://github.com/nikolasarac/Omnifood-Project/assets/11030281/b89e5351-6da7-4941-9e8c-117bd0107a81)
+

@@ -26,10 +26,6 @@ To view the OmniFood website, simply visit [https://nikola-omnifood.netlify.app/
 
 This project is part of a course assignment and is not open for contributions. However, feel free to fork the repository and use it as a template for your own projects.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 Special thanks to Jonas Schmedtmann for providing the invaluable guidance and resources throughout the course.
